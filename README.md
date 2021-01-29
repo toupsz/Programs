@@ -1,7 +1,7 @@
 # Programs
 Base code for program assignments in Software Development (C S 371). 
 
-Includes placeholders for questions for Program 1 and Program 2, as well as a simple Hello World program. We added this line just to make there be a change that gets picked up by Git. The remainder of the contents are for future programs:
+Includes placeholders for questions for Program 1 and Program 2, as well as a simple Hello World program. The remainder of the contents are for future programs:
 
 ## Program 1 and Program 2
 These assignments rely on the SimpleWebServer program. Each gets graded using tags in a cloned repository. 
